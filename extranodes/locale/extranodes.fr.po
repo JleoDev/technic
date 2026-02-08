@@ -1,0 +1,63 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Leonardo <jleodev.contact@gmail.com>, 2026.
+# Special credit goes to **** for the original translation that originated this file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-07 18:32-0300\n"
+"PO-Revision-Date: 2026-02-07 20:13-0300\n"
+"Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
+"Language-Team: French <traduc@traduc.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: init.lua:14
+msgid "Marble"
+msgstr "Marbre"
+
+#: init.lua:20
+msgid "Marble Bricks"
+msgstr "Briques en marbre"
+
+#: init.lua:26
+msgid "Granite"
+msgstr "Granite"
+
+#: init.lua:32
+msgid "Granite Bricks"
+msgstr ""
+
+#: init.lua:38
+msgid "Concrete"
+msgstr "Béton"
+
+#: init.lua:44
+msgid "Zinc Block"
+msgstr ""
+
+#: init.lua:50
+msgid "Cast Iron Block"
+msgstr ""
+
+#: init.lua:56
+msgid "Carbon Steel Block"
+msgstr ""
+
+#: init.lua:62
+msgid "Stainless Steel Block"
+msgstr ""
+
+#: init.lua:118 init.lua:128
+msgid "Insulator/cable clip"
+msgstr ""
+
+#: init.lua:179
+msgid "Steel strut with insulator/cable clip"
+msgstr ""
