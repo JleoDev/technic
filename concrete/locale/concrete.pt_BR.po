@@ -1,0 +1,36 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Leonardo <jleodev.contact@gmail.com>, 2026.
+# Special credit goes to Sires for the original translation that originated this file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-07 17:55-0300\n"
+"PO-Revision-Date: 2026-02-07 19:31-0300\n"
+"Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <ldpbr-"
+"translation@lists.sourceforge.net>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: init.lua:46
+msgid "Blast-resistant Concrete Block"
+msgstr "Bloco de Concreto resistente-a-explosões"
+
+#: init.lua:60
+msgid "Blast-resistant Concrete"
+msgstr "Concreto resistente-a-explosões"
+
+#: init.lua:81
+msgid "Concrete Post Platform"
+msgstr "Plataforma de Concreto"
+
+#: init.lua:113
+msgid "Concrete Post"
+msgstr "Poste de Concreto"
