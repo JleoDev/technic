@@ -1,0 +1,186 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Leonardo <jleodev.contact@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-10 05:50-0300\n"
+"PO-Revision-Date: 2026-02-08 14:20-0300\n"
+"Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: cnc_api.lua:24
+msgid "Stick"
+msgstr "Vareta"
+
+#: cnc_api.lua:30
+msgid "Element End Double"
+msgstr "Elemento de Extremidade Duplo"
+
+#: cnc_api.lua:39
+msgid "Element Cross Double"
+msgstr "Elemento em Cruz Duplo"
+
+#: cnc_api.lua:48
+msgid "Element T Double"
+msgstr "Elemento em T Duplo"
+
+#: cnc_api.lua:56
+msgid "Element Edge Double"
+msgstr "Elemento de Canto Duplo"
+
+#: cnc_api.lua:62
+msgid "Element Straight Double"
+msgstr "Elemento Reto Duplo"
+
+#: cnc_api.lua:68
+msgid "Element End"
+msgstr "Elemento de Extremidade"
+
+#: cnc_api.lua:77
+msgid "Element Cross"
+msgstr "Elemento em Cruz"
+
+#: cnc_api.lua:86
+msgid "Element T"
+msgstr "Elemento em T"
+
+#: cnc_api.lua:94
+msgid "Element Edge"
+msgstr "Elemento de Canto"
+
+#: cnc_api.lua:100
+msgid "Element Straight"
+msgstr "Elemento Reto"
+
+#: cnc_api.lua:106
+msgid "Oblate spheroid"
+msgstr "Esferoide oblato"
+
+#: cnc_api.lua:120
+msgid "Sphere"
+msgstr "Esfera"
+
+#: cnc_api.lua:126
+msgid "Horizontal Cylinder"
+msgstr "Cilindro Horizontal"
+
+#: cnc_api.lua:132
+msgid "Cylinder"
+msgstr "Cilindro"
+
+#: cnc_api.lua:138
+msgid "Two Curved Edge/Corner Block"
+msgstr "Bloco de Duas Bordas/Cantos Curvados"
+
+#: cnc_api.lua:144
+msgid "One Curved Edge Block"
+msgstr "Bloco de Uma Borda Curvada"
+
+#: cnc_api.lua:150
+msgid "Spike"
+msgstr "Ponta"
+
+#: cnc_api.lua:165
+msgid "Pyramid"
+msgstr "Pirâmide"
+
+#: cnc_api.lua:180
+msgid "Slope Upside Down Inner Edge/Corner"
+msgstr "Rampa Invertida - Canto Interno"
+
+#: cnc_api.lua:202
+msgid "Slope Upside Down Outer Edge/Corner"
+msgstr "Rampa Invertida - Canto Externo"
+
+#: cnc_api.lua:217
+msgid "Slope Inner Edge/Corner"
+msgstr "Rampa - Canto Interno"
+
+#: cnc_api.lua:239
+msgid "Slope Outer Edge/Corner"
+msgstr "Rampa - Canto Externo"
+
+#: cnc_api.lua:254
+msgid "Slope Upside Down"
+msgstr "Rampa Invertida"
+
+#: cnc_api.lua:269
+msgid "Slope Lying"
+msgstr "Rampa Deitada"
+
+#: cnc_api.lua:284
+msgid "Slope"
+msgstr "Rampa"
+
+#: cnc.lua:16
+msgid "CNC Machine"
+msgstr "Máquina CNC"
+
+#: cnc.lua:32
+msgid "LV"
+msgstr "BT"
+
+#: cnc.lua:32
+msgid "@1 CNC Machine"
+msgstr "Máquina CNC @1"
+
+#: cnc.lua:103
+msgid "Choose Milling Program:"
+msgstr "Escolha o Programa de Fresagem:"
+
+#: cnc.lua:108
+msgid "Slim Elements half / normal height:"
+msgstr "Elementos Finos - meia altura / altura normal:"
+
+#: cnc.lua:115
+msgid "In:"
+msgstr "Entrada:"
+
+#: cnc.lua:117
+msgid "Out:"
+msgstr "Saída:"
+
+#: cnc.lua:219
+msgid "@1 Idle"
+msgstr "@1 Ociosa"
+
+#: cnc.lua:227
+msgid "@1 Unpowered"
+msgstr "@1 Sem Energia"
+
+#: cnc.lua:230
+msgid "@1 Active"
+msgstr "@1 Ativa"
+
+#: cnc_materials.lua:40
+msgid "Grassy dirt"
+msgstr "Terra com Grama"
+
+#: cnc_materials.lua:41
+msgid "Wooden"
+msgstr "Madeira"
+
+#: cnc_materials.lua:47
+msgid "Bronze"
+msgstr "Bronze"
+
+#: cnc_materials.lua:49
+msgid "Steel"
+msgstr "Aço"
+
+#: cnc_materials.lua:52
+msgid "Wrought Iron"
+msgstr "Ferro Batido"
+
+#: cnc_materials.lua:54
+msgid "Stainless Steel"
+msgstr "Aço Inoxidável"
