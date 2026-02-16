@@ -19,8 +19,7 @@ local modpath = minetest.get_modpath(minetest.get_current_modname())
 dofile(modpath.."/support.lua")
 dofile(modpath.."/technic.lua")
 
--- Boilerplate to support localized strings if intllib mod is installed.
-local S = rawget(_G, "intllib") and intllib.Getter() or function(s) return s end
+local S = core.get_translator("wrench")
 
 local function get_meta_type(name, metaname)
 	local def = wrench.registered_nodes[name]
@@ -79,7 +78,7 @@ minetest.register_on_mods_loaded(function()
 				newdef[key] = value
 			end
 			newdef.stack_max = 1
-			newdef.description = S("%s with items"):format(newdef.description)
+			newdef.description = S("@1 with items", newdef.description)
 			newdef.groups = {}
 			newdef.groups.not_in_creative_inventory = 1
 			newdef.on_construct = nil
