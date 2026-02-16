@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-12 22:49-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: register.lua:37
+msgid "Black"
+msgstr ""
+
+#: register.lua:38
+msgid "Blue"
+msgstr ""
+
+#: register.lua:39
+msgid "Brown"
+msgstr ""
+
+#: register.lua:40
+msgid "Cyan"
+msgstr ""
+
+#: register.lua:41
+msgid "Dark Green"
+msgstr ""
+
+#: register.lua:42
+msgid "Dark Grey"
+msgstr ""
+
+#: register.lua:43
+msgid "Green"
+msgstr ""
+
+#: register.lua:44
+msgid "Grey"
+msgstr ""
+
+#: register.lua:45
+msgid "Magenta"
+msgstr ""
+
+#: register.lua:46
+msgid "Orange"
+msgstr ""
+
+#: register.lua:47
+msgid "Pink"
+msgstr ""
+
+#: register.lua:48
+msgid "Red"
+msgstr ""
+
+#: register.lua:49
+msgid "Violet"
+msgstr ""
+
+#: register.lua:50
+msgid "White"
+msgstr ""
+
+#: register.lua:51
+msgid "Yellow"
+msgstr ""
+
+#: register.lua:108
+msgid "Auto-sort upon exit"
+msgstr ""
+
+#: register.lua:135
+msgid "None"
+msgstr ""
+
+#: register.lua:137
+msgid "Color Filter: @1"
+msgstr ""
+
+#: register.lua:238 register.lua:277 register.lua:308
+msgid "@1 Chest"
+msgstr ""
+
+#: register.lua:253
+msgid "Sort now"
+msgstr ""
+
+#: register.lua:264
+msgid "@1 Locked Chest (owned by @2)"
+msgstr ""
+
+#: register.lua:275
+msgid "@1 Locked Chest"
+msgstr ""

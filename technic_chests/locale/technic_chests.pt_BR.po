@@ -1,0 +1,108 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Leonardo <jleodev.contact@gmail.com>, 2026.
+# Special credit goes to Sires for the original translation that originated this file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-12 22:49-0300\n"
+"PO-Revision-Date: 2026-02-08 13:59-0300\n"
+"Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <ldpbr-"
+"translation@lists.sourceforge.net>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: register.lua:37
+msgid "Black"
+msgstr "Preto"
+
+#: register.lua:38
+msgid "Blue"
+msgstr "Azul"
+
+#: register.lua:39
+msgid "Brown"
+msgstr "Marrom"
+
+#: register.lua:40
+msgid "Cyan"
+msgstr "Ciano"
+
+#: register.lua:41
+msgid "Dark Green"
+msgstr "Verde Escuro"
+
+#: register.lua:42
+msgid "Dark Grey"
+msgstr "Cinza Escuro"
+
+#: register.lua:43
+msgid "Green"
+msgstr "Verde"
+
+#: register.lua:44
+msgid "Grey"
+msgstr "Cinza"
+
+#: register.lua:45
+msgid "Magenta"
+msgstr "Magenta"
+
+#: register.lua:46
+msgid "Orange"
+msgstr "Laranja"
+
+#: register.lua:47
+msgid "Pink"
+msgstr "Rosa"
+
+#: register.lua:48
+msgid "Red"
+msgstr "Vermelho"
+
+#: register.lua:49
+msgid "Violet"
+msgstr "Violeta"
+
+#: register.lua:50
+msgid "White"
+msgstr "Branco"
+
+#: register.lua:51
+msgid "Yellow"
+msgstr "Amarelo"
+
+#: register.lua:108
+msgid "Auto-sort upon exit"
+msgstr "Ordenar automaticamente ao sair"
+
+#: register.lua:135
+msgid "None"
+msgstr "Nada"
+
+#: register.lua:137
+msgid "Color Filter: @1"
+msgstr "Filtro de Cor: @1"
+
+#: register.lua:238 register.lua:277 register.lua:308
+msgid "@1 Chest"
+msgstr "Baú @1"
+
+#: register.lua:253
+msgid "Sort now"
+msgstr "Ordenar"
+
+#: register.lua:264
+msgid "@1 Locked Chest (owned by @2)"
+msgstr "Baú Trancado @1 (pertence a/à @2)"
+
+#: register.lua:275
+msgid "@1 Locked Chest"
+msgstr "Baú Trancado @1"

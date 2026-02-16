@@ -1,0 +1,107 @@
+# Turkish translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Leonardo <jleodev.contact@gmail.com>, 2026.
+# Special credit goes to Türkçe çeviri for the original translation that originated this file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-12 22:49-0300\n"
+"PO-Revision-Date: 2026-02-08 13:59-0300\n"
+"Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: register.lua:37
+msgid "Black"
+msgstr "Siyah"
+
+#: register.lua:38
+msgid "Blue"
+msgstr "Mavi"
+
+#: register.lua:39
+msgid "Brown"
+msgstr "Kahverengi"
+
+#: register.lua:40
+msgid "Cyan"
+msgstr "Cam göbeği"
+
+#: register.lua:41
+msgid "Dark Green"
+msgstr "Koyu yeşil"
+
+#: register.lua:42
+msgid "Dark Grey"
+msgstr "Koyu gri"
+
+#: register.lua:43
+msgid "Green"
+msgstr "Yeşil"
+
+#: register.lua:44
+msgid "Grey"
+msgstr "Gri"
+
+#: register.lua:45
+msgid "Magenta"
+msgstr "Mor"
+
+#: register.lua:46
+msgid "Orange"
+msgstr "Turuncu"
+
+#: register.lua:47
+msgid "Pink"
+msgstr "Pembe"
+
+#: register.lua:48
+msgid "Red"
+msgstr "Kırmızı"
+
+#: register.lua:49
+msgid "Violet"
+msgstr "Koyu mor"
+
+#: register.lua:50
+msgid "White"
+msgstr "Beyaz"
+
+#: register.lua:51
+msgid "Yellow"
+msgstr "Sarı"
+
+#: register.lua:108
+msgid "Auto-sort upon exit"
+msgstr ""
+
+#: register.lua:135
+msgid "None"
+msgstr "Hiç"
+
+#: register.lua:137
+msgid "Color Filter: @1"
+msgstr "Renk süzgeci: @1"
+
+#: register.lua:238 register.lua:277 register.lua:308
+msgid "@1 Chest"
+msgstr "@1 Sandık"
+
+#: register.lua:253
+msgid "Sort now"
+msgstr "Sırala"
+
+#: register.lua:264
+msgid "@1 Locked Chest (owned by @2)"
+msgstr "@1 Kilitli sandık (Sahibi @2)"
+
+#: register.lua:275
+msgid "@1 Locked Chest"
+msgstr "@1 Kilitli sandık"

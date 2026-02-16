@@ -1,0 +1,107 @@
+# Japanese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Leonardo <jleodev.contact@gmail.com>, 2026.
+# Special credit goes to damiemk for the original translation that originated this file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-12 22:49-0300\n"
+"PO-Revision-Date: 2026-02-08 13:59-0300\n"
+"Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: register.lua:37
+msgid "Black"
+msgstr "黒"
+
+#: register.lua:38
+msgid "Blue"
+msgstr "青"
+
+#: register.lua:39
+msgid "Brown"
+msgstr "茶色"
+
+#: register.lua:40
+msgid "Cyan"
+msgstr "シアン"
+
+#: register.lua:41
+msgid "Dark Green"
+msgstr "濃い緑色"
+
+#: register.lua:42
+msgid "Dark Grey"
+msgstr "暗灰色 "
+
+#: register.lua:43
+msgid "Green"
+msgstr "緑"
+
+#: register.lua:44
+msgid "Grey"
+msgstr "灰色"
+
+#: register.lua:45
+msgid "Magenta"
+msgstr "マジェンタ"
+
+#: register.lua:46
+msgid "Orange"
+msgstr "橙色"
+
+#: register.lua:47
+msgid "Pink"
+msgstr "桃色"
+
+#: register.lua:48
+msgid "Red"
+msgstr "赤"
+
+#: register.lua:49
+msgid "Violet"
+msgstr "紫"
+
+#: register.lua:50
+msgid "White"
+msgstr "白"
+
+#: register.lua:51
+msgid "Yellow"
+msgstr "黄色"
+
+#: register.lua:108
+msgid "Auto-sort upon exit"
+msgstr ""
+
+#: register.lua:135
+msgid "None"
+msgstr "デフォルト"
+
+#: register.lua:137
+msgid "Color Filter: @1"
+msgstr "カラーフィルター: @1"
+
+#: register.lua:238 register.lua:277 register.lua:308
+msgid "@1 Chest"
+msgstr "@1 のチェスト"
+
+#: register.lua:253
+msgid "Sort now"
+msgstr "組織する"
+
+#: register.lua:264
+msgid "@1 Locked Chest (owned by @2)"
+msgstr "@1 のロックされたチェスト (@2 が所有)"
+
+#: register.lua:275
+msgid "@1 Locked Chest"
+msgstr "@1 ロックされたチェスト"

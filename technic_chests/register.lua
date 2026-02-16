@@ -1,4 +1,4 @@
-local S = rawget(_G, "intllib") and intllib.Getter() or function(s) return s end
+local S = core.get_translator("technic_chests")
 
 local pipeworks = rawget(_G, "pipeworks")
 local fs_helpers
@@ -133,7 +133,7 @@ local function set_formspec(pos, data, page)
 		else
 			colorName = S("None")
 		end
-		fs[#fs + 1] = "label["..(data.coleft+0.2)..","..(data.lotop+3)..";"..S("Color Filter: %s"):format(colorName).."]"
+		fs[#fs + 1] = "label["..(data.coleft+0.2)..","..(data.lotop+3)..";"..S("Color Filter: @1", colorName).."]"
 	end
 	meta:set_string("formspec", table.concat(fs))
 end
@@ -234,7 +234,7 @@ function technic.chests:definition(name, data)
 	-- Set up constant formspec fields
 	local fs = {
 		"size["..data.ovwidth..","..data.ovheight.."]",
-		"label[0,0;"..S("%s Chest"):format(name).."]",
+		"label[0,0;"..S("@1 Chest", name).."]",
 		"list[context;main;"..data.hileft..",1;"..data.width..","..data.height..";]",
 		"list[current_player;main;"..data.loleft..","..data.lotop..";8,4;]",
 		"listring[]"
@@ -260,8 +260,8 @@ function technic.chests:definition(name, data)
 			local meta = minetest.get_meta(pos)
 			meta:set_string("owner", placer:get_player_name() or "")
 			meta:set_string("infotext",
-					S("%s Locked Chest (owned by %s)")
-					:format(name, meta:get_string("owner")))
+					S("@1 Locked Chest (owned by @2)",
+          name, meta:get_string("owner")))
 			pipeworks.after_place(pos)
 		end
 		table.insert(front, "technic_"..lname.."_chest_lock_overlay.png")
@@ -271,9 +271,9 @@ function technic.chests:definition(name, data)
 
 	local desc
 	if data.locked then
-		desc = S("%s Locked Chest"):format(name)
+		desc = S("@1 Locked Chest", name)
 	else
-		desc = S("%s Chest"):format(name)
+		desc = S("@1 Chest", name)
 	end
 
 	local tentry = tube_entry
@@ -304,7 +304,7 @@ function technic.chests:definition(name, data)
 
 		on_construct = function(pos)
 			local meta = minetest.get_meta(pos)
-			meta:set_string("infotext", S("%s Chest"):format(name))
+			meta:set_string("infotext", S("@1 Chest", name))
 			set_formspec(pos, data, "main")
 			local inv = meta:get_inventory()
 			inv:set_size("main", data.width * data.height)
