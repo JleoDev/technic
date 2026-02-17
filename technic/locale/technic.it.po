@@ -1,0 +1,817 @@
+# Italian translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Leonardo <jleodev.contact@gmail.com>, 2026.
+# Special credit goes to VanessaE for the original translation that originated this file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-17 11:22-0300\n"
+"PO-Revision-Date: 2026-02-16 17:00-0300\n"
+"Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
+"Language-Team: Italian <tp@lists.linux.it>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: init.lua:47
+msgid "[Technic] Loaded in @1 seconds"
+msgstr "[Technic] caricato in @1 secondi"
+
+#: items.lua:5
+msgid "Silicon Wafer"
+msgstr "Wafer di silicone"
+
+#: items.lua:10
+msgid "Doped Silicon Wafer"
+msgstr "Wafer di silicone dopato"
+
+#: items.lua:15
+msgid "Uranium Fuel"
+msgstr "Uranio Combustibile"
+
+#: items.lua:20
+msgid "Diamond Drill Head"
+msgstr "Trivella diamantata"
+
+#: items.lua:25
+msgid "Blue Energy Crystal"
+msgstr "Cristallo energetico blu"
+
+#: items.lua:41
+msgid "Green Energy Crystal"
+msgstr "Cristallo energetico verde"
+
+#: items.lua:57
+msgid "Red Energy Crystal"
+msgstr "Cristallo energetico rosso"
+
+#: items.lua:73
+msgid "Copper Coil"
+msgstr "Bobina di rame"
+
+#: items.lua:78
+msgid "Low Voltage Transformer"
+msgstr "Trasformatore in bassa tensione"
+
+#: items.lua:83
+msgid "Medium Voltage Transformer"
+msgstr "Trasformatore in media tensione"
+
+#: items.lua:88
+msgid "High Voltage Transformer"
+msgstr "Trasformatore in alta tensione"
+
+#: items.lua:93
+msgid "Control Logic Unit"
+msgstr "Unità di controllo logica"
+
+#: items.lua:98
+msgid "Mixed Metal Ingot"
+msgstr "Lingotto in lega ibrida"
+
+#: items.lua:103
+msgid "Composite Plate"
+msgstr "Lastra composita"
+
+#: items.lua:108
+msgid "Copper Plate"
+msgstr "Lastra di rame"
+
+#: items.lua:113
+msgid "Carbon Plate"
+msgstr "Lastra in carbonio"
+
+#: items.lua:118
+msgid "Graphite"
+msgstr "Lastra in graffite"
+
+#: items.lua:123
+msgid "Carbon Cloth"
+msgstr "Fibra di carbonio"
+
+#: items.lua:128
+msgid "Machine Casing"
+msgstr ""
+
+#: items.lua:138
+msgid "Rubber Goo"
+msgstr ""
+
+#: items.lua:149
+msgid "@1%-Fissile Uranium Ingot"
+msgstr "@1%-Lingotto di uranio fissile"
+
+#: items.lua:186
+msgid "@1%-Fissile Uranium Block"
+msgstr "@1%-Blocco di uranio fissile"
+
+#: radiation.lua:386
+msgid "source"
+msgstr ""
+
+#: radiation.lua:456
+msgid "Chernobylite Block"
+msgstr ""
+
+#: machines/power_monitor.lua:19 machines/power_monitor.lua:34
+msgid "Power Monitor"
+msgstr ""
+
+#: machines/power_monitor.lua:57
+msgid "Power Monitor. Supply: @1 Demand: @2"
+msgstr ""
+
+#: machines/power_monitor.lua:60
+msgid "Power Monitor Has No Network"
+msgstr ""
+
+#: machines/supply_converter.lua:18
+msgid "Input Power"
+msgstr ""
+
+#: machines/supply_converter.lua:28 machines/HV/forcefield.lua:111
+msgid "Ignoring Mesecon Signal"
+msgstr ""
+
+#: machines/supply_converter.lua:30 machines/HV/forcefield.lua:113
+msgid "Controlled by Mesecon Signal"
+msgstr ""
+
+#: machines/supply_converter.lua:33 machines/supply_converter.lua:35
+#: machines/supply_converter.lua:125 machines/supply_converter.lua:191
+#: machines/supply_converter.lua:207
+msgid "Supply Converter"
+msgstr "Trasformatore"
+
+#: machines/supply_converter.lua:33 machines/HV/forcefield.lua:118
+#: machines/HV/forcefield.lua:267 machines/HV/quarry.lua:52
+msgid "@1 Disabled"
+msgstr "@1 Disabilitato"
+
+#: machines/supply_converter.lua:35 machines/HV/forcefield.lua:121
+msgid "@1 Enabled"
+msgstr "@1 Abilitato"
+
+#: machines/supply_converter.lua:171
+msgid "@1 (@2 @3 -> @4 @5)"
+msgstr ""
+
+#: machines/supply_converter.lua:175 machines/switching_station.lua:309
+#: machines/switching_station.lua:497
+msgid "@1 Has No Network"
+msgstr "@1 non è collegata"
+
+#: machines/supply_converter.lua:178
+msgid "@1 Has Bad Cabling"
+msgstr "@1 ha un cablaggio scorretto"
+
+#: machines/switching_station.lua:31 machines/switching_station.lua:44
+#: machines/switching_station.lua:280
+msgid "Switching Station"
+msgstr "Stazione di controllo"
+
+#: machines/switching_station.lua:289
+msgid "@1 Already Present"
+msgstr ""
+
+#: machines/switching_station.lua:376
+msgid "@1. Supply: @2 Demand: @3"
+msgstr ""
+
+#: tools/cans.lua:86
+msgid "Water Can"
+msgstr "Serbatoio d'acqua"
+
+#: tools/cans.lua:104
+msgid "Lava Can"
+msgstr "Serbatoio di lava"
+
+#: tools/cans.lua:122
+msgid "River Water Can"
+msgstr ""
+
+#: tools/chainsaw.lua:206
+msgid ""
+"The chainsaw could not dig all nodes because the safety mechanism was "
+"activated."
+msgstr ""
+
+#: tools/chainsaw.lua:312
+msgid "Chainsaw"
+msgstr "Motosega"
+
+#: tools/flashlight.lua:13
+msgid "Flashlight"
+msgstr "Torcia"
+
+#: tools/mining_drill.lua:42
+msgid "Single node."
+msgstr "Nodo singolo."
+
+#: tools/mining_drill.lua:43
+msgid "3 nodes deep."
+msgstr "3 nodi in profondità."
+
+#: tools/mining_drill.lua:44
+msgid "3 nodes wide."
+msgstr "3 nodi in larghezza."
+
+#: tools/mining_drill.lua:45
+msgid "3 nodes tall."
+msgstr "3 nodi in altezza."
+
+#: tools/mining_drill.lua:46
+msgid "3x3 nodes."
+msgstr "3x3 nodi."
+
+#: tools/mining_drill.lua:255
+msgid "Use while sneaking to change Mining Drill Mk@1 modes."
+msgstr ""
+"Premi shift (freccia grossa) e usa per cambiare modalità nella trivella da "
+"miniera Mk@1."
+
+#: tools/mining_drill.lua:261 tools/mining_drill.lua:336
+#: tools/mining_drill.lua:367
+msgid "Mining Drill Mk@1 Mode @2"
+msgstr "Trivella mk@1 in modalità @2"
+
+#: tools/mining_drill.lua:307 tools/mining_drill.lua:321
+#: tools/mining_drill.lua:352
+msgid "Mining Drill Mk@1"
+msgstr "Trivella da miniera mk@1"
+
+#: tools/mining_lasers.lua:97
+msgid "Mining Laser Mk@1"
+msgstr "Laser da miniera mk@1"
+
+#: tools/prospector.lua:18
+msgid "Prospector"
+msgstr ""
+
+#: tools/sonic_screwdriver.lua:121
+msgid "Sonic Screwdriver (left-click rotates face, right-click rotates axis)"
+msgstr ""
+
+#: tools/tree_tap.lua:6
+msgid "Tree Tap"
+msgstr "Batti albero"
+
+#: tools/tree_tap.lua:47
+msgid "Raw Latex"
+msgstr "Latex grezzo"
+
+#: tools/tree_tap.lua:60
+msgid "Rubber Fiber"
+msgstr "Fibra di gomma"
+
+#: tools/vacuum.lua:11
+msgid "Vacuum Cleaner"
+msgstr ""
+
+#: machines/HV/forcefield.lua:100
+msgid "Range"
+msgstr "Raggio"
+
+#: machines/HV/forcefield.lua:106
+msgid "Sphere"
+msgstr ""
+
+#: machines/HV/forcefield.lua:108
+msgid "Cube"
+msgstr ""
+
+#: machines/HV/forcefield.lua:118 machines/HV/forcefield.lua:121
+#: machines/HV/forcefield.lua:252 machines/HV/forcefield.lua:289
+#: machines/HV/forcefield.lua:311 machines/HV/forcefield.lua:320
+#: machines/HV/forcefield.lua:352 machines/HV/nuclear_reactor.lua:20
+#: machines/HV/quarry.lua:25 machines/HV/quarry.lua:48
+#: machines/HV/quarry.lua:232 machines/HV/quarry.lua:259
+msgid "HV"
+msgstr ""
+
+#: machines/HV/forcefield.lua:118 machines/HV/forcefield.lua:121
+#: machines/HV/forcefield.lua:252 machines/HV/forcefield.lua:289
+#: machines/HV/forcefield.lua:311 machines/HV/forcefield.lua:320
+msgid "@1 Forcefield Emitter"
+msgstr "Emettitore di campo di forza @1"
+
+#: machines/HV/forcefield.lua:274 machines/HV/quarry.lua:60
+#: machines/LV/lamp.lua:10 machines/LV/led.lua:8
+#: machines/LV/music_player.lua:47 machines/MV/tool_workshop.lua:75
+#: machines/register/machine_base.lua:124
+msgid "@1 Unpowered"
+msgstr "@1 Non alimentato"
+
+#: machines/HV/forcefield.lua:282 machines/HV/quarry.lua:60
+#: machines/LV/lamp.lua:9 machines/LV/led.lua:7 machines/LV/music_player.lua:53
+#: machines/MV/tool_workshop.lua:77 machines/other/coal_alloy_furnace.lua:123
+#: machines/register/machine_base.lua:120
+msgid "@1 Active"
+msgstr "@1 Attivo"
+
+#: machines/HV/forcefield.lua:352
+msgid "@1 Forcefield"
+msgstr ""
+
+#: machines/HV/nuclear_reactor.lua:20
+msgid "@1 Nuclear Reactor Core"
+msgstr ""
+
+#: machines/HV/nuclear_reactor.lua:37
+msgid "Nuclear Reactor Rod Compartment"
+msgstr "Compartimento combustibile nucleare"
+
+#: machines/HV/nuclear_reactor.lua:312 machines/LV/music_player.lua:41
+#: machines/LV/solar_panel.lua:42 machines/MV/tool_workshop.lua:69
+#: machines/register/battery_box.lua:262 machines/register/machine_base.lua:113
+#: machines/register/machine_base.lua:146 machines/register/solar_array.lua:37
+msgid "@1 Idle"
+msgstr "@1 Inattivo"
+
+#: machines/HV/quarry.lua:25 machines/HV/quarry.lua:48
+#: machines/HV/quarry.lua:232 machines/HV/quarry.lua:259
+msgid "@1 Quarry"
+msgstr "Cava @1"
+
+#: machines/HV/quarry.lua:26 machines/other/anchor.lua:61
+msgid "Radius:"
+msgstr "Raggio:"
+
+#: machines/HV/quarry.lua:28 machines/other/anchor.lua:63
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: machines/HV/quarry.lua:30 machines/other/anchor.lua:64
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: machines/HV/quarry.lua:36
+msgid "Digging not started"
+msgstr "Scavo non iniziato"
+
+#: machines/HV/quarry.lua:37
+msgid "Digging finished"
+msgstr "Scavo finito"
+
+#: machines/HV/quarry.lua:38
+msgid "Purging cache"
+msgstr ""
+
+#: machines/HV/quarry.lua:39
+msgid "above"
+msgstr ""
+
+#: machines/HV/quarry.lua:39
+msgid "below"
+msgstr ""
+
+#: machines/HV/quarry.lua:39
+msgid "Digging @1 m@2 machine"
+msgstr ""
+
+#: machines/HV/quarry.lua:41
+msgid "Restart"
+msgstr ""
+
+#: machines/HV/quarry.lua:52
+msgid "@1 purging cache"
+msgstr ""
+
+#: machines/HV/quarry.lua:56
+msgid "@1 Finished"
+msgstr "@1 Finito"
+
+#: machines/HV/quarry.lua:226
+msgid ""
+"Manually taking/removing from cache by hand is not possible. If you can't "
+"wait, restart or disable the quarry to start automatic purge."
+msgstr ""
+
+#: machines/LV/geothermal.lua:24 machines/LV/geothermal.lua:73
+#: machines/LV/geothermal.lua:86 machines/LV/geothermal.lua:96
+#: machines/LV/geothermal.lua:103 machines/LV/lamp.lua:8 machines/LV/led.lua:6
+#: machines/LV/music_player.lua:26 machines/LV/music_player.lua:75
+#: machines/LV/music_player.lua:93 machines/LV/music_player.lua:102
+#: machines/LV/solar_panel.lua:26 machines/LV/solar_panel.lua:54
+#: machines/LV/solar_panel.lua:66 machines/LV/water_mill.lua:56
+#: machines/LV/water_mill.lua:70 machines/LV/water_mill.lua:86
+#: machines/LV/water_mill.lua:93
+msgid "LV"
+msgstr ""
+
+#: machines/LV/geothermal.lua:24 machines/LV/geothermal.lua:73
+#: machines/LV/geothermal.lua:86 machines/LV/geothermal.lua:96
+#: machines/LV/geothermal.lua:103
+msgid "Geothermal @1 Generator"
+msgstr "@1 Generatore Geotermico"
+
+#: machines/LV/lamp.lua:8
+msgid "@1 Lamp"
+msgstr ""
+
+#: machines/LV/lamp.lua:11
+msgid "@1 Off"
+msgstr ""
+
+#: machines/LV/lamp.lua:17
+msgid "Dummy light source node"
+msgstr ""
+
+#: machines/LV/led.lua:6
+msgid "@1 LED"
+msgstr ""
+
+#: machines/LV/music_player.lua:26 machines/LV/music_player.lua:75
+#: machines/LV/music_player.lua:93 machines/LV/music_player.lua:102
+msgid "@1 Music Player"
+msgstr "Music Player @1"
+
+#: machines/LV/music_player.lua:88
+msgid "Stopped"
+msgstr "Fermato"
+
+#: machines/LV/music_player.lua:89
+msgid "Current track @1"
+msgstr "Traccia corrente @1"
+
+#: machines/LV/solar_panel.lua:26 machines/LV/solar_panel.lua:54
+#: machines/LV/solar_panel.lua:66
+msgid "Small Solar @1 Generator"
+msgstr "@1 Pannello solare"
+
+#: machines/LV/solar_panel.lua:38 machines/register/solar_array.lua:33
+msgid "@1 Active (@2)"
+msgstr ""
+
+#: machines/LV/water_mill.lua:56 machines/LV/water_mill.lua:70
+#: machines/LV/water_mill.lua:86 machines/LV/water_mill.lua:93
+#: machines/MV/hydro_turbine.lua:54 machines/MV/hydro_turbine.lua:67
+#: machines/MV/hydro_turbine.lua:83 machines/MV/hydro_turbine.lua:90
+msgid "Hydro @1 Generator"
+msgstr "Turbina Elettrica @1"
+
+#: machines/MV/hydro_turbine.lua:54 machines/MV/hydro_turbine.lua:67
+#: machines/MV/hydro_turbine.lua:83 machines/MV/hydro_turbine.lua:90
+#: machines/MV/tool_workshop.lua:24 machines/MV/tool_workshop.lua:41
+#: machines/MV/tool_workshop.lua:85 machines/MV/tool_workshop.lua:101
+#: machines/MV/wind_mill.lua:54 machines/MV/wind_mill.lua:70
+#: machines/MV/wind_mill.lua:89
+msgid "MV"
+msgstr ""
+
+#: machines/MV/lighting.lua:19 machines/MV/lighting.lua:23
+msgid "someone"
+msgstr ""
+
+#: machines/MV/lighting.lua:28
+msgid "Sorry, @1 owns that spot."
+msgstr ""
+
+#: machines/MV/lighting.lua:85 machines/MV/lighting.lua:124
+msgid "Yellow Glowlight (thick)"
+msgstr ""
+
+#: machines/MV/lighting.lua:166 machines/MV/lighting.lua:205
+msgid "Yellow Glowlight (thin)"
+msgstr ""
+
+#: machines/MV/lighting.lua:248 machines/MV/lighting.lua:287
+msgid "White Glowlight (thick)"
+msgstr ""
+
+#: machines/MV/lighting.lua:329 machines/MV/lighting.lua:368
+msgid "White Glowlight (thin)"
+msgstr ""
+
+#: machines/MV/lighting.lua:410 machines/MV/lighting.lua:449
+msgid "Yellow Glowlight (small cube)"
+msgstr ""
+
+#: machines/MV/lighting.lua:491 machines/MV/lighting.lua:530
+msgid "White Glowlight (small cube)"
+msgstr ""
+
+#: machines/MV/tool_workshop.lua:24 machines/MV/tool_workshop.lua:41
+#: machines/MV/tool_workshop.lua:85 machines/MV/tool_workshop.lua:101
+msgid "@1 Tool Workshop"
+msgstr "Officina per attrezzi @1"
+
+#: machines/MV/tool_workshop.lua:27 machines/register/battery_box.lua:187
+#: machines/register/machine_base.lua:66
+msgid "Upgrade Slots"
+msgstr "Alloggi di aggiornamento"
+
+#: machines/MV/wind_mill.lua:23
+msgid "Wind Mill Frame"
+msgstr "Pala eolica"
+
+#: machines/MV/wind_mill.lua:54 machines/MV/wind_mill.lua:70
+#: machines/MV/wind_mill.lua:89
+msgid "Wind @1 Generator"
+msgstr "@1 Generatore eolico"
+
+#: machines/MV/wind_mill.lua:59
+msgid "@1 Improperly Placed"
+msgstr "@1 Piazzato impropiamente"
+
+#: machines/MV/wind_mill.lua:63
+msgid "@1 (@2)"
+msgstr ""
+
+#: machines/other/anchor.lua:3
+msgid "Administrative World Anchor"
+msgstr "Ancora-mondo amministrativa"
+
+#: machines/other/anchor.lua:57
+msgid "Owner:"
+msgstr "Proprietario:"
+
+#: machines/other/anchor.lua:59
+msgid "Unlocked"
+msgstr "Non chiuso a chiave"
+
+#: machines/other/anchor.lua:60
+msgid "Locked"
+msgstr "Chiuso a chiave"
+
+#: machines/other/anchor.lua:65
+msgid "Keeping @1/@2 map blocks loaded"
+msgstr ""
+
+#: machines/other/coal_alloy_furnace.lua:15
+msgid "Fuel-Fired Alloy Furnace"
+msgstr "Fornace per leghe a carbone"
+
+#: machines/other/coal_alloy_furnace.lua:147
+msgid "@1 is empty"
+msgstr ""
+
+#: machines/other/coal_alloy_furnace.lua:164 machines/register/generator.lua:68
+msgid "@1 Out Of Fuel"
+msgstr "@1 senza carburante"
+
+#: machines/other/coal_furnace.lua:4
+msgid "Fuel-Fired Furnace"
+msgstr "Fornace a carbone"
+
+#: machines/other/constructor.lua:134 machines/other/constructor.lua:149
+#: machines/other/constructor.lua:158
+msgid "Constructor Mk@1"
+msgstr "Costruttore Mk@1"
+
+#: machines/other/constructor.lua:153
+msgid "Slot @1"
+msgstr "Alloggio @1"
+
+#: machines/other/frames.lua:244
+msgid "Frame"
+msgstr "Cornice"
+
+#: machines/other/frames.lua:614
+msgid "Frame Motor"
+msgstr "Cornice del motore"
+
+#: machines/other/frames.lua:825 machines/other/frames.lua:837
+#: machines/other/frames.lua:850
+msgid "Template"
+msgstr "Sagoma"
+
+#: machines/other/frames.lua:862
+msgid "Template (replacing)"
+msgstr "Sagoma (di rimpiazzo)"
+
+#: machines/other/frames.lua:882
+msgid "Template Tool"
+msgstr "Strumento per sagome"
+
+#: machines/other/frames.lua:943
+msgid "Template Motor"
+msgstr "Motore per sagome"
+
+#: machines/other/injector.lua:60 machines/other/injector.lua:83
+#: machines/other/injector.lua:111
+msgid "Self-Contained Injector"
+msgstr "Ignettore"
+
+#: machines/other/injector.lua:62
+msgid "Stackwise"
+msgstr "pila completa"
+
+#: machines/other/injector.lua:63
+msgid "Itemwise"
+msgstr "Singolo elemento"
+
+#: machines/other/injector.lua:65
+msgid "Public"
+msgstr ""
+
+#: machines/other/injector.lua:66
+msgid "Private"
+msgstr ""
+
+#: machines/register/alloy_furnace.lua:43
+msgid "@1 Alloy Furnace"
+msgstr "@1 Fornace per leghe"
+
+#: machines/register/alloy_recipes.lua:5
+msgid "Alloying"
+msgstr ""
+
+#: machines/register/battery_box.lua:72
+msgid "RE Battery"
+msgstr "Batteria RE"
+
+#: machines/register/battery_box.lua:145
+msgid "Allow splitting incoming 'charge' stacks from tubes"
+msgstr ""
+
+#: machines/register/battery_box.lua:154
+msgid "Allow splitting incoming 'discharge' stacks"
+msgstr ""
+
+#: machines/register/battery_box.lua:169 machines/register/battery_box.lua:291
+#: machines/register/battery_box.lua:315
+msgid "@1 Battery Box"
+msgstr "@1 Box batterie"
+
+#: machines/register/battery_box.lua:170
+msgid "Charge"
+msgstr "Carica"
+
+#: machines/register/battery_box.lua:171
+msgid "Discharge"
+msgstr "Scarica"
+
+#: machines/register/battery_box.lua:172
+msgid "Power level"
+msgstr "Livello di potenza"
+
+#: machines/register/battery_box.lua:199
+msgid "@1 Battery Box Has No Network"
+msgstr ""
+
+#: machines/register/battery_box.lua:258
+msgid "@1 Battery Box: @2 / @3"
+msgstr ""
+
+#: machines/register/cables.lua:181
+msgid "@1 Cable"
+msgstr "Cavo @1"
+
+#: machines/register/cables.lua:223
+msgid "@1 Cable Plate"
+msgstr ""
+
+#: machines/register/centrifuge.lua:6
+msgid "@1 Centrifuge"
+msgstr ""
+
+#: machines/register/centrifuge_recipes.lua:4
+msgid "Separating"
+msgstr ""
+
+#: machines/register/common.lua:145
+msgid "Machine cannot be removed because it is not empty"
+msgstr "La macchina non può essere rimossa perchè non è vuota"
+
+#: machines/register/common.lua:182
+msgid "Inventory move disallowed due to protection"
+msgstr "Impossibile muovere l'inventario a causa della protezione"
+
+#: machines/register/compressor.lua:7
+msgid "@1 Compressor"
+msgstr "Compressore @1"
+
+#: machines/register/compressor_recipes.lua:4
+msgid "Compressing"
+msgstr "Compressione"
+
+#: machines/register/electric_furnace.lua:7
+msgid "@1 Furnace"
+msgstr "@1 Fornace"
+
+#: machines/register/extractor.lua:7
+msgid "@1 Extractor"
+msgstr "Estrattore @1"
+
+#: machines/register/extractor_recipes.lua:4
+msgid "Extracting"
+msgstr "Estrazione"
+
+#: machines/register/freezer.lua:7
+msgid "@1 Freezer"
+msgstr ""
+
+#: machines/register/freezer_recipes.lua:4
+msgid "Freezing"
+msgstr ""
+
+#: machines/register/generator.lua:39 machines/register/generator.lua:45
+msgid "Fuel-Fired @1 Generator"
+msgstr "@1 Generatore a carbone"
+
+#: machines/register/grinder.lua:7
+msgid "@1 Grinder"
+msgstr "@1 Tritatutto"
+
+#: machines/register/grinder_recipes.lua:4
+msgid "Grinding"
+msgstr "Macinazione"
+
+#: machines/register/grinder_recipes.lua:110
+#: machines/register/grinder_recipes.lua:180
+msgid "@1 Dust"
+msgstr "Polvere di @1"
+
+#: machines/register/grinder_recipes.lua:180
+msgid "@1%-Fissile Uranium"
+msgstr "@1%-Uranio fissile"
+
+#: machines/register/grindings.lua:8
+msgid "Sawdust"
+msgstr ""
+
+#: machines/register/grindings.lua:24
+msgid "@1 Grinding"
+msgstr ""
+
+#: machines/register/solar_array.lua:16 machines/register/solar_array.lua:49
+msgid "Arrayed Solar @1 Generator"
+msgstr "@1 Pannello Solare"
+
+#: machines/register/translation_hints.lua:6
+msgid "Brass"
+msgstr ""
+
+#: machines/register/translation_hints.lua:7
+msgid "Bronze"
+msgstr ""
+
+#: machines/register/translation_hints.lua:8
+msgid "Carbon Steel"
+msgstr ""
+
+#: machines/register/translation_hints.lua:9
+msgid "Cast Iron"
+msgstr ""
+
+#: machines/register/translation_hints.lua:10
+msgid "Chernobylite"
+msgstr ""
+
+#: machines/register/translation_hints.lua:11
+msgid "Chromium"
+msgstr ""
+
+#: machines/register/translation_hints.lua:12
+msgid "Coal"
+msgstr ""
+
+#: machines/register/translation_hints.lua:13
+msgid "Copper"
+msgstr ""
+
+#: machines/register/translation_hints.lua:14
+msgid "Lead"
+msgstr ""
+
+#: machines/register/translation_hints.lua:15
+msgid "Gold"
+msgstr ""
+
+#: machines/register/translation_hints.lua:16
+msgid "Mithril"
+msgstr ""
+
+#: machines/register/translation_hints.lua:17
+msgid "Silver"
+msgstr ""
+
+#: machines/register/translation_hints.lua:18
+msgid "Stainless Steel"
+msgstr ""
+
+#: machines/register/translation_hints.lua:19
+msgid "Stone"
+msgstr ""
+
+#: machines/register/translation_hints.lua:20
+msgid "Sulfur"
+msgstr ""
+
+#: machines/register/translation_hints.lua:21
+msgid "Tin"
+msgstr ""
+
+#: machines/register/translation_hints.lua:22
+msgid "Wrough,t Iron"
+msgstr ""
+
+#: machines/register/translation_hints.lua:23
+msgid "Zinc"
+msgstr ""

@@ -49,7 +49,7 @@ end
 
 local function set_display(pos, meta)
 	local ESC = minetest.formspec_escape
-	meta:set_string("infotext", S(meta:get_int("enabled") ~= 0 and "%s Enabled" or "%s Disabled"):format(desc))
+	meta:set_string("infotext", S((meta:get_int("enabled") ~= 0 and "@1 Enabled" or "@1 Disabled"), desc))
 	meta:set_string("formspec",
 		"size[5,3.5]"..
 		"item_image[0,0;1,1;technic:admin_anchor]"..
@@ -62,7 +62,7 @@ local function set_display(pos, meta)
 		(meta:get_int("enabled") == 0 and
 			"button[3,2;2,1;enable;"..ESC(S("Disabled")).."]" or
 			"button[3,2;2,1;disable;"..ESC(S("Enabled")).."]")..
-		"label[0,3;"..ESC(S("Keeping %d/%d map blocks loaded"):format(
+		"label[0,3;"..ESC(S("Keeping @1/@2 map blocks loaded",
 			#currently_forceloaded_positions(meta), #compute_forceload_positions(pos, meta)
 		)).."]")
 end
