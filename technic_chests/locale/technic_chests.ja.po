@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-12 22:49-0300\n"
+"POT-Creation-Date: 2026-02-17 11:34-0300\n"
 "PO-Revision-Date: 2026-02-08 13:59-0300\n"
 "Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
 "Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
@@ -18,90 +18,114 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: register.lua:37
+#: register.lua:30
+msgid "Allow splitting incoming stacks from tubes"
+msgstr ""
+
+#: register.lua:36
 msgid "Black"
 msgstr "黒"
 
-#: register.lua:38
+#: register.lua:37
 msgid "Blue"
 msgstr "青"
 
-#: register.lua:39
+#: register.lua:38
 msgid "Brown"
 msgstr "茶色"
 
-#: register.lua:40
+#: register.lua:39
 msgid "Cyan"
 msgstr "シアン"
 
-#: register.lua:41
+#: register.lua:40
 msgid "Dark Green"
 msgstr "濃い緑色"
 
-#: register.lua:42
+#: register.lua:41
 msgid "Dark Grey"
 msgstr "暗灰色 "
 
-#: register.lua:43
+#: register.lua:42
 msgid "Green"
 msgstr "緑"
 
-#: register.lua:44
+#: register.lua:43
 msgid "Grey"
 msgstr "灰色"
 
-#: register.lua:45
+#: register.lua:44
 msgid "Magenta"
 msgstr "マジェンタ"
 
-#: register.lua:46
+#: register.lua:45
 msgid "Orange"
 msgstr "橙色"
 
-#: register.lua:47
+#: register.lua:46
 msgid "Pink"
 msgstr "桃色"
 
-#: register.lua:48
+#: register.lua:47
 msgid "Red"
 msgstr "赤"
 
-#: register.lua:49
+#: register.lua:48
 msgid "Violet"
 msgstr "紫"
 
-#: register.lua:50
+#: register.lua:49
 msgid "White"
 msgstr "白"
 
-#: register.lua:51
+#: register.lua:50
 msgid "Yellow"
 msgstr "黄色"
 
-#: register.lua:108
+#: register.lua:107
 msgid "Auto-sort upon exit"
 msgstr ""
 
-#: register.lua:135
+#: register.lua:134
 msgid "None"
 msgstr "デフォルト"
 
-#: register.lua:137
+#: register.lua:136
 msgid "Color Filter: @1"
 msgstr "カラーフィルター: @1"
 
-#: register.lua:238 register.lua:277 register.lua:308
+#: register.lua:237 register.lua:276 register.lua:307
 msgid "@1 Chest"
 msgstr "@1 のチェスト"
 
-#: register.lua:253
+#: register.lua:252
 msgid "Sort now"
 msgstr "組織する"
 
-#: register.lua:264
+#: register.lua:263
 msgid "@1 Locked Chest (owned by @2)"
 msgstr "@1 のロックされたチェスト (@2 が所有)"
 
-#: register.lua:275
+#: register.lua:274
 msgid "@1 Locked Chest"
 msgstr "@1 ロックされたチェスト"
+
+#: translation_hints.lua:6
+msgid "Copper"
+msgstr ""
+
+#: translation_hints.lua:7
+msgid "Gold"
+msgstr ""
+
+#: translation_hints.lua:8
+msgid "Mithril"
+msgstr ""
+
+#: translation_hints.lua:9
+msgid "Silver"
+msgstr ""
+
+#: translation_hints.lua:10
+msgid "Iron"
+msgstr ""

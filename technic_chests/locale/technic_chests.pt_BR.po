@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-12 22:49-0300\n"
+"POT-Creation-Date: 2026-02-17 11:34-0300\n"
 "PO-Revision-Date: 2026-02-08 13:59-0300\n"
 "Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <ldpbr-"
@@ -19,90 +19,114 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: register.lua:37
+#: register.lua:30
+msgid "Allow splitting incoming stacks from tubes"
+msgstr "Permitir dividir pilhas de entrada vindas dos tubos"
+
+#: register.lua:36
 msgid "Black"
 msgstr "Preto"
 
-#: register.lua:38
+#: register.lua:37
 msgid "Blue"
 msgstr "Azul"
 
-#: register.lua:39
+#: register.lua:38
 msgid "Brown"
 msgstr "Marrom"
 
-#: register.lua:40
+#: register.lua:39
 msgid "Cyan"
 msgstr "Ciano"
 
-#: register.lua:41
+#: register.lua:40
 msgid "Dark Green"
 msgstr "Verde Escuro"
 
-#: register.lua:42
+#: register.lua:41
 msgid "Dark Grey"
 msgstr "Cinza Escuro"
 
-#: register.lua:43
+#: register.lua:42
 msgid "Green"
 msgstr "Verde"
 
-#: register.lua:44
+#: register.lua:43
 msgid "Grey"
 msgstr "Cinza"
 
-#: register.lua:45
+#: register.lua:44
 msgid "Magenta"
 msgstr "Magenta"
 
-#: register.lua:46
+#: register.lua:45
 msgid "Orange"
 msgstr "Laranja"
 
-#: register.lua:47
+#: register.lua:46
 msgid "Pink"
 msgstr "Rosa"
 
-#: register.lua:48
+#: register.lua:47
 msgid "Red"
 msgstr "Vermelho"
 
-#: register.lua:49
+#: register.lua:48
 msgid "Violet"
 msgstr "Violeta"
 
-#: register.lua:50
+#: register.lua:49
 msgid "White"
 msgstr "Branco"
 
-#: register.lua:51
+#: register.lua:50
 msgid "Yellow"
 msgstr "Amarelo"
 
-#: register.lua:108
+#: register.lua:107
 msgid "Auto-sort upon exit"
 msgstr "Ordenar automaticamente ao sair"
 
-#: register.lua:135
+#: register.lua:134
 msgid "None"
 msgstr "Nada"
 
-#: register.lua:137
+#: register.lua:136
 msgid "Color Filter: @1"
 msgstr "Filtro de Cor: @1"
 
-#: register.lua:238 register.lua:277 register.lua:308
+#: register.lua:237 register.lua:276 register.lua:307
 msgid "@1 Chest"
 msgstr "Baú @1"
 
-#: register.lua:253
+#: register.lua:252
 msgid "Sort now"
 msgstr "Ordenar"
 
-#: register.lua:264
+#: register.lua:263
 msgid "@1 Locked Chest (owned by @2)"
 msgstr "Baú Trancado @1 (pertence a/à @2)"
 
-#: register.lua:275
+#: register.lua:274
 msgid "@1 Locked Chest"
 msgstr "Baú Trancado @1"
+
+#: translation_hints.lua:6
+msgid "Copper"
+msgstr "Cobre"
+
+#: translation_hints.lua:7
+msgid "Gold"
+msgstr "Ouro"
+
+#: translation_hints.lua:8
+msgid "Mithril"
+msgstr "Mithril"
+
+#: translation_hints.lua:9
+msgid "Silver"
+msgstr "Prata"
+
+#: translation_hints.lua:10
+msgid "Iron"
+msgstr "Ferro"

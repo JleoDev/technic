@@ -27,7 +27,7 @@ if not minetest.get_modpath("pipeworks") then
 	fs_helpers.cycling_button = function() return "" end
 else
 	fs_helpers = pipeworks.fs_helpers
-	allow_label = "Allow splitting incoming stacks from tubes"
+	allow_label = S("Allow splitting incoming stacks from tubes")
 	tube_entry = "^pipeworks_tube_connection_metallic.png"
 end
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-12 22:49-0300\n"
+"POT-Creation-Date: 2026-02-17 11:34-0300\n"
 "PO-Revision-Date: 2026-02-08 13:59-0300\n"
 "Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
 "Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
@@ -18,90 +18,114 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: register.lua:37
+#: register.lua:30
+msgid "Allow splitting incoming stacks from tubes"
+msgstr ""
+
+#: register.lua:36
 msgid "Black"
 msgstr "Schwarz"
 
-#: register.lua:38
+#: register.lua:37
 msgid "Blue"
 msgstr "Blau"
 
-#: register.lua:39
+#: register.lua:38
 msgid "Brown"
 msgstr "Braun"
 
-#: register.lua:40
+#: register.lua:39
 msgid "Cyan"
 msgstr "Tuerkis"
 
-#: register.lua:41
+#: register.lua:40
 msgid "Dark Green"
 msgstr "Dunkelgruen"
 
-#: register.lua:42
+#: register.lua:41
 msgid "Dark Grey"
 msgstr "Dunkelgrau"
 
-#: register.lua:43
+#: register.lua:42
 msgid "Green"
 msgstr "Gruen"
 
-#: register.lua:44
+#: register.lua:43
 msgid "Grey"
 msgstr "Grau"
 
-#: register.lua:45
+#: register.lua:44
 msgid "Magenta"
 msgstr "Magenta"
 
-#: register.lua:46
+#: register.lua:45
 msgid "Orange"
 msgstr "Orange"
 
-#: register.lua:47
+#: register.lua:46
 msgid "Pink"
 msgstr "Rosa"
 
-#: register.lua:48
+#: register.lua:47
 msgid "Red"
 msgstr "Rot"
 
-#: register.lua:49
+#: register.lua:48
 msgid "Violet"
 msgstr "Violett"
 
-#: register.lua:50
+#: register.lua:49
 msgid "White"
 msgstr "Weiss"
 
-#: register.lua:51
+#: register.lua:50
 msgid "Yellow"
 msgstr "Gelb"
 
-#: register.lua:108
+#: register.lua:107
 msgid "Auto-sort upon exit"
 msgstr ""
 
-#: register.lua:135
+#: register.lua:134
 msgid "None"
 msgstr "Farblos"
 
-#: register.lua:137
+#: register.lua:136
 msgid "Color Filter: @1"
 msgstr "Farbfilter: @1"
 
-#: register.lua:238 register.lua:277 register.lua:308
+#: register.lua:237 register.lua:276 register.lua:307
 msgid "@1 Chest"
 msgstr "@1truhe"
 
-#: register.lua:253
+#: register.lua:252
 msgid "Sort now"
 msgstr ""
 
-#: register.lua:264
+#: register.lua:263
 msgid "@1 Locked Chest (owned by @2)"
 msgstr "Verschlossene @1truhe (gehoert @2)"
 
-#: register.lua:275
+#: register.lua:274
 msgid "@1 Locked Chest"
 msgstr "Verschlossene @1truhe"
+
+#: translation_hints.lua:6
+msgid "Copper"
+msgstr ""
+
+#: translation_hints.lua:7
+msgid "Gold"
+msgstr ""
+
+#: translation_hints.lua:8
+msgid "Mithril"
+msgstr ""
+
+#: translation_hints.lua:9
+msgid "Silver"
+msgstr ""
+
+#: translation_hints.lua:10
+msgid "Iron"
+msgstr ""
