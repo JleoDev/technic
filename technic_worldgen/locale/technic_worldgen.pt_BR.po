@@ -1,0 +1,194 @@
+# Language pt-BR translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Leonardo <jleodev.contact@gmail.com>, 2026.
+# Special credit goes to Sires for the original translation that originated this file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-19 15:09-0300\n"
+"PO-Revision-Date: 2026-02-19 15:36-0300\n"
+"Last-Translator: Leonardo <jleodev.contact@gmail.com>\n"
+"Language-Team: Language pt-BR\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: crafts.lua:5
+msgid "Uranium Lump"
+msgstr "Pedaço de Urânio"
+
+#: crafts.lua:11
+msgid "Uranium Ingot"
+msgstr "Lingote de Urânio"
+
+#: crafts.lua:17
+msgid "Chromium Lump"
+msgstr "Pedaço de Crômio"
+
+#: crafts.lua:22
+msgid "Chromium Ingot"
+msgstr "Lingote de Crômio"
+
+#: crafts.lua:27
+msgid "Zinc Lump"
+msgstr "Pedaço de Zinco"
+
+#: crafts.lua:32
+msgid "Zinc Ingot"
+msgstr "Lingote de Zinco"
+
+#: crafts.lua:37
+msgid "Lead Lump"
+msgstr "Pedaço de Chumbo"
+
+#: crafts.lua:42
+msgid "Lead Ingot"
+msgstr "Lingote de Chumbo"
+
+#: crafts.lua:47
+msgid "Sulfur Lump"
+msgstr "Pedaço de Enxofre"
+
+#: crafts.lua:54
+msgid "Wrought Iron Ingot"
+msgstr "Lingote de Ferro Forjado"
+
+#: crafts.lua:59
+msgid "Cast Iron Ingot"
+msgstr "Lingote de Ferro Fundido"
+
+#: crafts.lua:64
+msgid "Carbon Steel Ingot"
+msgstr "Lingote de Aço Carbono"
+
+#: crafts.lua:69
+msgid "Stainless Steel Ingot"
+msgstr "Lingote de Ferro Inoxidável"
+
+#: nodes.lua:5
+msgid "Uranium Ore"
+msgstr "Minério de Urânio"
+
+#: nodes.lua:14
+msgid "Chromium Ore"
+msgstr "Minério de Crômio"
+
+#: nodes.lua:23
+msgid "Zinc Ore"
+msgstr "Minério de Zinco"
+
+#: nodes.lua:32
+msgid "Lead Ore"
+msgstr "Minério de Chumbo"
+
+#: nodes.lua:41
+msgid "Sulfur Ore"
+msgstr "Minério de Enxofre"
+
+#: nodes.lua:50
+msgid "Granite"
+msgstr "Granito"
+
+#: nodes.lua:58
+msgid "Granite Bricks"
+msgstr "Tijolos de Granito"
+
+#: nodes.lua:66
+msgid "Marble"
+msgstr "Mármore"
+
+#: nodes.lua:74
+msgid "Marble Bricks"
+msgstr "Tijolos de Mármore"
+
+#: nodes.lua:82
+msgid "Uranium Block"
+msgstr "Bloco de Urânio"
+
+#: nodes.lua:90
+msgid "Chromium Block"
+msgstr "Bloco de Crômio"
+
+#: nodes.lua:98
+msgid "Zinc Block"
+msgstr "Bloco de Zinco"
+
+#: nodes.lua:106
+msgid "Lead Block"
+msgstr "Bloco de Chumbo"
+
+#: nodes.lua:116
+msgid "Wrought Iron Block"
+msgstr "Bloco de Ferro Forjado"
+
+#: nodes.lua:121
+msgid "Cast Iron Block"
+msgstr "Bloco de Ferro Fundido"
+
+#: nodes.lua:129
+msgid "Carbon Steel Block"
+msgstr "Bloco de Aço Carbono"
+
+#: nodes.lua:137
+msgid "Stainless Steel Block"
+msgstr "Bloco de Aço Inoxidável"
+
+#: nodes.lua:180
+msgid "Wrought Iron"
+msgstr "Ferro Forjado"
+
+#: override_itens.lua:31
+msgid "Iron Axe"
+msgstr "Machado de Ferro"
+
+#: override_itens.lua:32
+msgid "Iron Pickaxe"
+msgstr "Picareta de Ferro"
+
+#: override_itens.lua:33
+msgid "Iron Shovel"
+msgstr "Pá de Ferro"
+
+#: override_itens.lua:34
+msgid "Iron Sword"
+msgstr "Espada de Ferro"
+
+#: override_itens.lua:35 override_itens.lua:40 override_itens.lua:41
+msgid "Iron Door"
+msgstr "Porta de Ferro"
+
+#: override_itens.lua:36
+msgid "Iron Hoe"
+msgstr "Enxada de Ferro"
+
+#: override_itens.lua:37
+msgid "Iron Hammer"
+msgstr "Martelo de Ferro"
+
+#: override_itens.lua:38
+msgid "Iron Handsaw"
+msgstr "Serrote de Ferro"
+
+#: override_itens.lua:39
+msgid "Steel-Reinforced Crystal Glass"
+msgstr "Vidro de Cristal Reforçado com Aço"
+
+#: override_itens.lua:42
+msgid "Empty Heavy Iron Bottle"
+msgstr "Garrafa Vazia de Ferro Pesado"
+
+#: rubber.lua:6
+msgid "Rubber Tree Sapling"
+msgstr "Muda de Árvore de Borracha"
+
+#: rubber.lua:24 rubber.lua:33
+msgid "Rubber Tree"
+msgstr "Árvore de Borracha"
+
+#: rubber.lua:43
+msgid "Rubber Tree Leaves"
+msgstr "Folhas de Árvore de Borracha"

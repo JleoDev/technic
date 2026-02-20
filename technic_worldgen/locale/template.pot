@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-19 15:09-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: crafts.lua:5
+msgid "Uranium Lump"
+msgstr ""
+
+#: crafts.lua:11
+msgid "Uranium Ingot"
+msgstr ""
+
+#: crafts.lua:17
+msgid "Chromium Lump"
+msgstr ""
+
+#: crafts.lua:22
+msgid "Chromium Ingot"
+msgstr ""
+
+#: crafts.lua:27
+msgid "Zinc Lump"
+msgstr ""
+
+#: crafts.lua:32
+msgid "Zinc Ingot"
+msgstr ""
+
+#: crafts.lua:37
+msgid "Lead Lump"
+msgstr ""
+
+#: crafts.lua:42
+msgid "Lead Ingot"
+msgstr ""
+
+#: crafts.lua:47
+msgid "Sulfur Lump"
+msgstr ""
+
+#: crafts.lua:54
+msgid "Wrought Iron Ingot"
+msgstr ""
+
+#: crafts.lua:59
+msgid "Cast Iron Ingot"
+msgstr ""
+
+#: crafts.lua:64
+msgid "Carbon Steel Ingot"
+msgstr ""
+
+#: crafts.lua:69
+msgid "Stainless Steel Ingot"
+msgstr ""
+
+#: nodes.lua:5
+msgid "Uranium Ore"
+msgstr ""
+
+#: nodes.lua:14
+msgid "Chromium Ore"
+msgstr ""
+
+#: nodes.lua:23
+msgid "Zinc Ore"
+msgstr ""
+
+#: nodes.lua:32
+msgid "Lead Ore"
+msgstr ""
+
+#: nodes.lua:41
+msgid "Sulfur Ore"
+msgstr ""
+
+#: nodes.lua:50
+msgid "Granite"
+msgstr ""
+
+#: nodes.lua:58
+msgid "Granite Bricks"
+msgstr ""
+
+#: nodes.lua:66
+msgid "Marble"
+msgstr ""
+
+#: nodes.lua:74
+msgid "Marble Bricks"
+msgstr ""
+
+#: nodes.lua:82
+msgid "Uranium Block"
+msgstr ""
+
+#: nodes.lua:90
+msgid "Chromium Block"
+msgstr ""
+
+#: nodes.lua:98
+msgid "Zinc Block"
+msgstr ""
+
+#: nodes.lua:106
+msgid "Lead Block"
+msgstr ""
+
+#: nodes.lua:116
+msgid "Wrought Iron Block"
+msgstr ""
+
+#: nodes.lua:121
+msgid "Cast Iron Block"
+msgstr ""
+
+#: nodes.lua:129
+msgid "Carbon Steel Block"
+msgstr ""
+
+#: nodes.lua:137
+msgid "Stainless Steel Block"
+msgstr ""
+
+#: nodes.lua:180
+msgid "Wrought Iron"
+msgstr ""
+
+#: override_itens.lua:31
+msgid "Iron Axe"
+msgstr ""
+
+#: override_itens.lua:32
+msgid "Iron Pickaxe"
+msgstr ""
+
+#: override_itens.lua:33
+msgid "Iron Shovel"
+msgstr ""
+
+#: override_itens.lua:34
+msgid "Iron Sword"
+msgstr ""
+
+#: override_itens.lua:35 override_itens.lua:40 override_itens.lua:41
+msgid "Iron Door"
+msgstr ""
+
+#: override_itens.lua:36
+msgid "Iron Hoe"
+msgstr ""
+
+#: override_itens.lua:37
+msgid "Iron Hammer"
+msgstr ""
+
+#: override_itens.lua:38
+msgid "Iron Handsaw"
+msgstr ""
+
+#: override_itens.lua:39
+msgid "Steel-Reinforced Crystal Glass"
+msgstr ""
+
+#: override_itens.lua:42
+msgid "Empty Heavy Iron Bottle"
+msgstr ""
+
+#: rubber.lua:6
+msgid "Rubber Tree Sapling"
+msgstr ""
+
+#: rubber.lua:24 rubber.lua:33
+msgid "Rubber Tree"
+msgstr ""
+
+#: rubber.lua:43
+msgid "Rubber Tree Leaves"
+msgstr ""
