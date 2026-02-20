@@ -9,6 +9,7 @@ dofile(modpath.."/config.lua")
 dofile(modpath.."/nodes.lua")
 dofile(modpath.."/oregen.lua")
 dofile(modpath.."/crafts.lua")
+dofile(modpath.."/override_itens.lua")
 
 -- Rubber trees, moretrees also supplies these
 if not minetest.get_modpath("moretrees") then
