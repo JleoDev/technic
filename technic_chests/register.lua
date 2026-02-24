@@ -209,7 +209,7 @@ end
 
 function technic.chests:definition(name, data)
 	local lname = name:lower()
-	name = S(name)
+	name = name
 
 	-- Calculate formspec positions
 	data.lowidth = 8
